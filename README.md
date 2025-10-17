@@ -9,7 +9,7 @@ The task involves building a regression model capable of predicting the continuo
 
 ## 🚀 Project Highlights
 
-* **Competition:** [CGIAR Root Volume Estimation Challenge](https://www.zindi.jp/competitions/)
+* **Competition:** [CGIAR Root Volume Estimation Challenge](https://www.zindi.com/competitions/)
 * **Task Type:** Regression
 * **Frameworks Used:** PyTorch, LightGBM, CatBoost, XGBoost, scikit-learn, timm
 * **Public Score:** 1.06
